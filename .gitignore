@@ -1,0 +1,7 @@
+web/node_modules/
+web/.next/
+web/.data/
+web/.env*
+!web/.env.example
+web/*.tsbuildinfo
+web/test-results/

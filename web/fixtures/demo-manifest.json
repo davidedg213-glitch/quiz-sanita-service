@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "1.0",
+  "version": "demo-1",
+  "questionCount": 1500,
+  "contentChecksum": "7e387d42e78e51e0cf8892375c8708b3cf44c13805ee00f6848c686f535a1765",
+  "source": {
+    "document_id": "generatore-sintetico-v1",
+    "checksum_sha256": "a4e37e0d64d7871b06ca67353257232004d014be83f865f941f8c8f4c335fed9"
+  },
+  "synthetic": true,
+  "categories": [
+    "Logica numerica",
+    "Ragionamento",
+    "Organizzazione della mansione"
+  ]
+}
